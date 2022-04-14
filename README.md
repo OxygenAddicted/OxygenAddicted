@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <div>
-    <h3> My Github's stats </h3>
-    https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=dracula&no-frame=true
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&langs_count=10&theme=dracula" alt="Top Languages" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&theme=dracula" alt="khelthos" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=OxygenAddicted&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656" alt="GitHub Streak"     />
-  </div>
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
