@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <h3>GitHub Stat</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenaAddicted&langs_count=10&theme=dracula" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OxygenaAddicted&show_icons=true&theme=dracula" alt="khelthos" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OxygenaAddicted&layuout=compact&theme=dracula&v=2" alt="Wakatime Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OxygenaAddicted&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656" alt="GitHub Streak" />
+</div>
