@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     <h3>GitHub Stat</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&langs_count=10&theme=dracula" alt="Top Languages" /><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&theme=dracula" alt="khelthos" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OxygenAddicted&layuout=compact&theme=dracula&v=2" alt="Wakatime Stats" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=OxygenAddicted&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656" alt="GitHub Streak"     />
   </div>
 </p>
