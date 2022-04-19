@@ -7,7 +7,7 @@
 
 > “Keep breathing and living even though you are useless.”
   
-> Enough Github's for today, now put your device down and get to sleep.
+> Enough GitHub's for today, now put your device down and get to sleep.
 
 <p><br/></p>
  
@@ -15,13 +15,13 @@
 
 #
 
-### My Github's Achievements
+### My GitHub's Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 #
 
-### My Github's Stats
+### My GitHub's Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&langs_count=10&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&theme=dracula)  
