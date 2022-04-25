@@ -5,9 +5,9 @@
 - I've got a skeleton, some organs, and my body is about 70% water.
 - I have an O₂ addiction.
 
-> “Keep breathing and living even though you are useless.”
+> I am me.
   
-> Enough GitHub's for today, now put your device down and get to sleep.
+> A newbie at programming but a professional at breathing.
 
 <p><br/></p>
  
