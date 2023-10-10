@@ -15,11 +15,11 @@
 
 ### My GitHub's Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=oldie&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=tokyonight &no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 #
 
 ### My GitHub's Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&include_all_commits=true&theme=tokyonight &hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&layout=compact&theme=tokyonight &hide_border=true" /></a> |
 | ------------- | ------------- |
