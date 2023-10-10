@@ -15,7 +15,7 @@
 
 ### My GitHub's Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=buefy&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=OxygenAddicted&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 #
 
