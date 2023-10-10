@@ -25,5 +25,5 @@
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Al Imamul's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Al Imamul's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
