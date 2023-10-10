@@ -1,5 +1,5 @@
 # Hi there.
-### I'm Al Imamul Luthfi.
+### I'm Al Imamul.
 
 - I'm a human.
 - I've got a skeleton, some organs, and my body is about 70% water.
@@ -10,8 +10,6 @@
 > A newbie at programming but a professional at breathing.
 
 <p><br/></p>
- 
-![Profile views](https://gpvc.arturio.dev/OxygenAddicted)
 
 #
 
