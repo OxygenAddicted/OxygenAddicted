@@ -20,12 +20,5 @@
 #
 
 ### My GitHub's Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OxygenAddicted&repo=github-readme-stats&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OxygenAddicted&repo=anuraghazra.github.io&theme=dracula" />
-</a>
 
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OxygenAddicted&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenAddicted&layout=compact&theme=dracula&hide_border=true" /></a>
