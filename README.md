@@ -9,7 +9,7 @@
   
 > A newbie at programming but a professional at breathing.
 
-> This GitHub is remained unattended since I'm now a UI/UX designer.
+> This GitHub account is remained unattended since I'm now a UI/UX designer.
 
 <p><br/></p>
 
